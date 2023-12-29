@@ -8,12 +8,8 @@
 
 ## Description
 
-This Next.js app displays a product listing page with basic styling and responsiveness.
+This Next.js app displays a product listing page with basic styling using tailwind and responsiveness.
 
 ## Mock Data
 
-Product data is mocked in the `products.js` file. You can replace it with real data when integrating with a backend.
-
-## Styling
-
-Basic styling is applied using tailwindcss. Feel free to customize as needed.
+Product data is mocked in the `staticData/productsData.js` file. You can replace it with real data when integrating with a backend.
