@@ -8,7 +8,7 @@
 
 ## Description
 
-This Next.js app displays a product listing page with basic styling using tailwind and responsiveness.
+This is the Part 2 of the project built using Next.js. The app displays a product listing page with basic styling using tailwind.
 
 ## Mock Data
 
